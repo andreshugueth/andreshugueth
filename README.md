@@ -4,13 +4,14 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/AndresHugueth?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/AndresHugueth)
 
-- 🌱 I’m currently learning **Django & Data Analysis**
+- ⚡ Fun fact: I love to draw and play guitar
 
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning **Django & Data Analysis**
 
 - 💬 Ask me about **Django, Flask, Python and C - Math and Statistics**
 
-- ⚡ Fun fact: I love to draw and play guitar
+- 🥅 2021 Goals: Contribute more to Open Source projects
+
 
 ### Connect with me:
 
