@@ -6,7 +6,7 @@
 
 - ⚡ Fun fact: I love to draw and play guitar
 
-- 🌱 I’m currently learning **Django & Data Analysis**
+- 🌱 I’m currently learning **Django & React**
 
 - 💬 Ask me about **Django, Flask, Python and C - Math and Statistics**
 
